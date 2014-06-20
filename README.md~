@@ -11,7 +11,7 @@ Herramientas necesarias:
 Tecnologías utilizadas:
 =======================
 
-	* FOAF: para crear una estructura y descripción de datos (personas).
+	* FOAF: para crear una estructura y descripcion de datos (personas).
 	* PHP: para programación web.
 	* SPARQL: para hacer consultas a datos enlazados.
 	* HTML5: para mostrar el grafo final.
