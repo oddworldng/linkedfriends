@@ -23,5 +23,5 @@ Librerías utilizadas:
 	lib-dracula: permite generar un grafo haciendo uso de HTML5 
 	(http://www.graphdracula.net/)
 
-	sparqllib: permite conectar con Virtuoso usando PHP y realizar consultas 
-	SPARQL (http://graphite.ecs.soton.ac.uk/sparqllib/)
+	sparqllib: permite conectar con Virtuoso usando PHP y realizar consultas SPARQL 
+	(http://graphite.ecs.soton.ac.uk/sparqllib/)
