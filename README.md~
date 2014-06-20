@@ -1,17 +1,18 @@
 Descripción:
 ============
 
-	* Plataforma que utiliza datos enlazados (Linked Data) para generar un grafo de amigos enlazados partiendo del propio usuario.
+	Plataforma que utiliza datos enlazados (Linked Data) para generar un grafo 
+	de amigos enlazados partiendo del propio usuario.
 
 Herramientas necesarias:
 ========================
 	
-	* OpenLink Virtuoso: http://virtuoso.openlinksw.com/
+	OpenLink Virtuoso: http://virtuoso.openlinksw.com/
 
 Tecnologías utilizadas:
 =======================
 
-	* FOAF: para crear una estructura y descripcion de datos (personas).
+	* FOAF: para crear una estructura y descripción de datos (personas).
 	* PHP: para programación web.
 	* SPARQL: para hacer consultas a datos enlazados.
 	* HTML5: para mostrar el grafo final.
